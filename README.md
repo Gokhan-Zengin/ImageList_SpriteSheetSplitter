@@ -4,7 +4,7 @@ A helper code for splitting spritesheets into a ImageList
 
 # Usage
 
-```
+```c
 #include "SpriteSheetSplitter.h"
 
 int main(){
